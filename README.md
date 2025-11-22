@@ -7,10 +7,9 @@
 ---
 
 ## 👩‍💻 About Me
-I'm a **Junior Data Scientist** passionate about **deep learning**, **computer vision**, and building real-world AI applications.  
-Currently, I'm working on an end-to-end **Plant Disease Classification System** using **TensorFlow (VGG16)** to help farmers detect crop diseases early.
+I am a final-year student at the Faculty of Statistics and Computer Science, Mansoura University , with a passion for transforming data into actionable insights and building intelligent systems. My journey in tech began with a strong foundation in mathematics, statistics, and programming, and over time I have honed my skills in Python, Machine Learning, Deep Learning, Data Analysis, and AI applications.
 
-I enjoy transforming raw data into powerful insights and building scalable ML solutions.
+I am fascinated by how AI and Data Science can revolutionize industries like agriculture, cybersecurity, and business analytics, and I actively explore real-world projects where I can combine theory with practical implementation.
 
 ---
 
@@ -68,18 +67,8 @@ I enjoy transforming raw data into powerful insights and building scalable ML so
 ---
 
 ## 📫 Connect with Me
-- **GitHub:** *your-username*  
-- **LinkedIn:** (Add your link later)  
-- **Email:** (Optional)
+- **GitHub:** *Haneenmohammed1311*  
+- **LinkedIn:** (https://www.linkedin.com/in/haneen-mohammed13)
+- **Email:** (haneeenmohammid@gmail.com)
 
----
 
-## ⭐ Fun Facts
-- I love reading books (esp. self-development & novels) 📚  
-- I enjoy learning new ML techniques every day  
-- Passionate about applying AI in agriculture & sustainability 🌱
-
----
-
-### Thanks for visiting my profile! 🌟  
-Feel free to explore my repositories or collaborate with me.
