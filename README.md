@@ -14,35 +14,40 @@ I am fascinated by how AI and Data Science can revolutionize industries like agr
 ---
 
 ## 🚀 Skills & Technologies
-
-## 💻 Skills & Tools
-
 ### 🖥 Programming & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=matlab&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> 
 
 ### 🤖 Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /> 
 
 ### 📊 Data Visualization & Reporting
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+<img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Seaborn-5A7FA8?style=flat&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black" /> 
 
 ### ⚙️ MLOps & Deployment
-![MLflow](https://img.shields.io/badge/MLflow-00C0A3?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)
+<img src="https://img.shields.io/badge/-MLflow-00A4FF?style=flat&logo=mlflow&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-HuggingFace-FF9900?style=flat&logo=huggingface&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" /> 
+
+### 📐 Statistics & Mathematics
+<img src="https://img.shields.io/badge/-Statistics-FF6F61?style=flat&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Mathematics-4CAF50?style=flat&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Probability-9C27B0?style=flat&logoColor=white" /> 
+
 ---
 
 ## 🌱 Current Project
