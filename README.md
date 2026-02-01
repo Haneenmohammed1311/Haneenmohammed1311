@@ -100,13 +100,6 @@ Mansoura University | *2022 – 2026*
 
 ---
 
-### 📊 Hypothesis Testing – Real-World Case Studies
-- Designed and executed **statistical hypothesis tests** on real-world datasets.
-- Applied **t-tests, z-tests, chi-square tests, ANOVA test**, and confidence interval analysis.
-- Interpreted results to support **business and decision-making scenarios**.
-- Focused on clarity, assumptions, and statistical rigor.
-
----
 
 ### 🔍 Clustering Analysis – K-Means
 - Performed **unsupervised learning** using K-Means clustering.
@@ -154,11 +147,11 @@ Mansoura University | *2022 – 2026*
 
 ## 🏫 Training & Professional Programs
 
-🎓 **Digital Egypt Pioneers Initiative (DEPI) – Data Science Track**  
+🎓 **Digital Egypt Pioneers Initiative (DEPI) – Data Science Track Oct 2024- May 2025**  
 - 120+ hours: Python, SQL, Data Analysis, Data Visualization, Machine Learning, MLOps  
 - 48+ hours: Time Management, Personal Branding, Communication, Freelancing  
 
-🎓 **Samsung Innovation Campus (SIC) – AI Track**  
+🎓 **Samsung Innovation Campus (SIC) – AI Track Aug 2025- Dec2026**  
 - Data Analysis & Visualization  
 - Machine Learning & Deep Learning  
 - Computer Vision, NLP, LLMs  
@@ -167,14 +160,27 @@ Mansoura University | *2022 – 2026*
 - Multiple applied AI projects
 
 ---
+### 🏆 Hackathons & Competitions
 
+**AL Ru’ya Hackathon – Assistive AI for the Visually Impaired**  
+*3rd Place Winner*
+
+- Developed a real-time assistive system using **Computer Vision (YOLOv8)** to detect obstacles, stairs, and currency for visually impaired users.
+- Implemented **Arabic OCR** and **Text-to-Speech** pipelines to improve accessibility and user independence.
+- Built an **Egyptian banknote recognition system**, addressing a real local market need.
+- Contributed to the **business and product perspective** by:
+  - Identifying the **target users** and core pain points.
+  - Defining the **value proposition** and social impact of the solution.
+  - Participating in **business model canvas discussions**, focusing on sustainability and scalability.
+  - Supporting the **pitching process**, aligning technical capabilities with real-world use cases.
+- Focused on **social impact, performance optimization, and real-world deployment feasibility**.
+
+---
 ## 🤝 Soft Skills
-- Strong analytical & critical thinking  
-- Problem-solving mindset  
 - Self-learner & fast adapter  
 - Team collaboration  
 - Clear technical communication  
-
+  Time management
 ---
 
 ## 📫 Contact
