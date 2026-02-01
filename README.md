@@ -102,7 +102,7 @@ Mansoura University | *2022 – 2026*
 
 ### 📊 Hypothesis Testing – Real-World Case Studies
 - Designed and executed **statistical hypothesis tests** on real-world datasets.
-- Applied **t-tests, z-tests, chi-square tests**, and confidence interval analysis.
+- Applied **t-tests, z-tests, chi-square tests, ANOVA test**, and confidence interval analysis.
 - Interpreted results to support **business and decision-making scenarios**.
 - Focused on clarity, assumptions, and statistical rigor.
 
