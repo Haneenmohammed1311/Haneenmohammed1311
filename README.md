@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haneen-mohammed13)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/haneenmohammed13)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haneeenmohammid@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Haneenmohammed1311&style=for-the-badge&color=6C63FF)](https://github.com/Haneenmohammed1311)
+
 
 </div>
 
@@ -17,13 +17,13 @@
 
 > *"Turning data into decisions, and ideas into intelligent systems."*
 
-I'm a **Data Science & AI practitioner** from Egypt 🇪🇬, currently completing my B.Sc. in **Statistics and Computer Science** at Mansoura University (2026). I specialize in building end-to-end AI solutions — from raw data to deployed, real-world applications.
+I'm a **Data Science & AI practitioner**, currently completing my B.Sc. in **Statistics and Computer Science** at Mansoura University (2026). I specialize in building end-to-end AI solutions — from raw data to deployed, real-world applications.
 
 - 🔭 &nbsp; Currently building in **Computer Vision**, **Deep Learning**, and **Agentic AI**
 - 🏆 &nbsp; **3rd Place** – AL Ru'ya Hackathon (Assistive AI for the Visually Impaired)
 - 🌱 &nbsp; Exploring **LLMs**, **MLOps**, and **Automation**
 - 💼 &nbsp; **Actively seeking** internships & junior roles in Data Science / AI
-- 📍 &nbsp; Mansoura, Egypt
+
 
 ---
 
@@ -45,7 +45,6 @@ I'm a **Data Science & AI practitioner** from Egypt 🇪🇬, currently completi
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 **Machine Learning & Deep Learning**
 
@@ -60,7 +59,6 @@ I'm a **Data Science & AI practitioner** from Egypt 🇪🇬, currently completi
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
 
 ---
