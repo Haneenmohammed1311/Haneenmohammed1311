@@ -8,7 +8,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/haneenmohammed13)
 [![Email](https://img.shields.io/badge/Email-haneeenmohammid%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:haneeenmohammid@gmail.com)
 [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work%20💼-2ea44f?style=flat-square)](https://www.linkedin.com/in/haneen-mohammed13)
-[![Profile Views](https://komarev.com/ghpvc/?username=Haneenmohammed1311&style=flat-square&color=6C63FF)](https://github.com/Haneenmohammed1311)
+
 
 </div>
 
@@ -126,8 +126,7 @@ Customer segmentation pipeline using K-Means with optimal cluster selection via 
 
 ---
 
-**📘 Samsung Innovation Campus (SIC) — AI Track** &nbsp;|&nbsp; *Aug 2025 – Dec 2026* &nbsp; 🟢 *In Progress*
-
+**📘 Samsung Innovation Campus (SIC) — AI Track** &nbsp;|&nbsp; *Aug 2025 – Dec 2026* &nbsp; ✅ *Completed*
 Deep Learning · Computer Vision · NLP · LLMs · MLOps · MLflow · Web Deployment · Prompt Engineering · Agentic AI & Automation · Multiple applied AI projects
 
 ---
@@ -150,16 +149,7 @@ Supervised students in advanced AI and data science tracks, contributed to curri
 
 🥉 **3rd Place — AL Ru'ya Hackathon** &nbsp;·&nbsp; Assistive AI for the visually impaired using YOLOv8, Arabic OCR, TTS & Egyptian banknote recognition
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Haneenmohammed1311&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haneenmohammed1311&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Haneenmohammed1311&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
