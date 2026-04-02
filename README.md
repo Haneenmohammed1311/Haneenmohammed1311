@@ -243,23 +243,6 @@ Multiple end-to-end applied AI projects spanning the complete ML product lifecyc
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Haneenmohammed1311&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haneenmohammed1311&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Haneenmohammed1311&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm **actively looking** for internships and junior roles in **Data Science**, **Machine Learning**, or **AI Engineering**. Whether it's a project collaboration, an open role, or just a conversation about AI — I'd love to hear from you!
