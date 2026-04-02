@@ -66,7 +66,7 @@ I'm a passionate Data Science & AI practitioner with hands-on experience across 
 
 ### ♿ AL Ru'ya — Assistive Vision System for the Visually Impaired &nbsp; 🏆 *3rd Place*
 `YOLOv8` `Computer Vision` `Arabic OCR` `Text-to-Speech` `Mobile Deployment`
-&nbsp; [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/AL-Ruya-Assistive-System)
+&nbsp; [![Repo]([https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/AL-Ruya-Assistive-System](https://github.com/Haneenmohammed1311/Assistant-Visually-Impaired))
 
 Real-time assistive AI system that detects environmental hazards (stairs, obstacles), recognizes Egyptian banknotes, and reads text aloud in Arabic — empowering visually impaired users with independent navigation. Optimized for mobile deployment with fast inference. Also contributed to the product pitch, value proposition, and business model canvas during the hackathon.
 
@@ -82,7 +82,7 @@ Contactless automated attendance system that detects and recognizes faces in rea
 
 ### 🌿 Plant Leaf Disease Detection — Deep Learning & Computer Vision
 `CNN` `Transfer Learning` `Flask` `Hugging Face API` `Telegram Bot` `Docker`
-&nbsp; [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/Plant-Disease-Detection)
+&nbsp; [![Repo]([https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/Plant-Disease-Detection](https://github.com/Haneenmohammed1311/-Plant-Leaf-Disease-Detection-using-Deep-Learning))
 
 End-to-end plant disease diagnosis system using CNNs (scratch + transfer learning). Deployed as a Flask web app and a Telegram chatbot powered by the Hugging Face API for real-time predictions. Automated alert and reporting pipelines via Make.com. Fully containerized with Docker.
 
