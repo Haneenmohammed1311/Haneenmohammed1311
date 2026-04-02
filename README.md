@@ -1,189 +1,141 @@
-# Hi, I'm Haneen Mohammed Mousa 👋  
-**Data Science & AI Practitioner | Machine Learning | Deep Learning | Computer Vision**
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Haneen+Mohammed+%F0%9F%91%8B;Data+Science+%26+AI+Practitioner;Computer+Vision+%7C+Deep+Learning;Building+Impactful+AI+Solutions" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haneen-mohammed13)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/haneenmohammed13)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haneeenmohammid@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Haneenmohammed1311&style=for-the-badge&color=6C63FF)](https://github.com/Haneenmohammed1311)
+
+</div>
 
 ---
 
-## 👩‍💻 About Me
-I am a **passionate and results-driven Data Science & AI practitioner** with strong hands-on experience across **data analysis, machine learning, deep learning, and computer vision**.  
-My work is grounded in a **solid academic foundation in Statistics and Computer Science**, combined with **applied, real-world projects** that span analytics, predictive modeling, and AI-powered systems.
+## 🧠 About Me
 
-I strongly believe in **self-learning** as a core skill in technology. Alongside formal academic study, I continuously develop my expertise through **intensive training programs**, independent experimentation, and end-to-end project development — from data understanding to deployment.
+> *"Turning data into decisions, and ideas into intelligent systems."*
 
-My interests lie in building **practical, scalable, and impactful data-driven solutions**, especially in **Agritech, accessibility systems, and intelligent computer vision applications**.
+I'm a **Data Science & AI practitioner** from Egypt 🇪🇬, currently completing my B.Sc. in **Statistics and Computer Science** at Mansoura University (2026). I specialize in building end-to-end AI solutions — from raw data to deployed, real-world applications.
 
----
-
-## 🎓 Education
-🎓 **B.Sc. in Statistics and Computer Science**  
-Mansoura University | *2022 – 2026*  
-**GPA:** Very Good
+- 🔭 &nbsp; Currently building in **Computer Vision**, **Deep Learning**, and **Agentic AI**
+- 🏆 &nbsp; **3rd Place** – AL Ru'ya Hackathon (Assistive AI for the Visually Impaired)
+- 🌱 &nbsp; Exploring **LLMs**, **MLOps**, and **Automation**
+- 💼 &nbsp; **Actively seeking** internships & junior roles in Data Science / AI
+- 📍 &nbsp; Mansoura, Egypt
 
 ---
 
-## 🧠 Core Expertise
-✔ Statistical Analysis & Hypothesis Testing  
-✔ Exploratory Data Analysis (EDA)  
-✔ Machine Learning (Supervised & Unsupervised)  
-✔ Deep Learning & Neural Networks  
-✔ Computer Vision Systems  
-✔ Feature Engineering & Data Preprocessing  
-✔ Model Evaluation & Performance Optimization  
+## 🛠️ Tech Stack
+
+**Languages & Core Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Data Analysis & Visualization**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+**Machine Learning & Deep Learning**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Deployment & MLOps**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 Featured Projects
 
-### 🔹 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,sql,matlab,html,css" />
-</p>
-
----
-
-### 🔹 Data Analysis & Visualization
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-- Pandas, NumPy  
-- Matplotlib, Seaborn, Plotly  
-- Power BI, Tableau  
-- Exploratory Data Analysis (EDA)
+| Project | Domain | Highlights |
+|---|---|---|
+| [♿ AL Ru'ya – Assistive Vision System](#) | Computer Vision | 🏆 3rd Place · YOLOv8 · Arabic OCR · TTS · Mobile |
+| [🌱 Crop Recommendation System](#) | Agritech · ML | EDA · Feature Engineering · Multi-model Evaluation |
+| [🌿 Plant Disease Detection](#) | Deep Learning · CV | CNN · Flask App · Telegram Bot · Hugging Face API |
+| [📈 HR Attrition Prediction](#) | Predictive Analytics | SMOTEENN · Power BI · Streamlit Dashboard |
+| [🛒 Online Sales Analysis](#) | Business Intelligence | Interactive Power BI · Revenue Insights |
+| [🔍 Customer Clustering](#) | Unsupervised ML | K-Means · Elbow Method · Silhouette Analysis |
 
 ---
 
-### 🔹 Machine Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=scikitlearn" />
-</p>
+## 🏆 Highlights
 
-- Regression & Classification  
-- Clustering (K-Means)  
-- Random Forest  
-- Dimensionality Reduction (PCA)  
-- Imbalanced Data Handling (SMOTE, SMOTEENN)
+<table>
+<tr>
+<td>
 
----
+**🥉 AL Ru'ya Hackathon — 3rd Place**
+Built a real-time assistive system for visually impaired users using **YOLOv8** for obstacle detection, **Arabic OCR**, **Text-to-Speech**, and Egyptian banknote recognition. Contributed to both the technical build and the product pitch.
 
-### 🔹 Deep Learning & AI
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,keras" />
-</p>
-
-- Convolutional Neural Networks (CNNs)  
-- YOLOv8  
-- Computer Vision  
-- NLP & LLM Fundamentals  
+</td>
+</tr>
+</table>
 
 ---
 
-### 🔹 Deployment & MLOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,docker,streamlit" />
-</p>
+## 🎓 Education & Training
 
-- Flask & Streamlit  
-- Docker  
-- MLflow  
-- Hugging Face API  
-- Automation (Make.com)
+**🎓 B.Sc. Statistics & Computer Science** — Mansoura University *(2022–2026)* · GPA: Very Good
 
----
+**📘 Digital Egypt Pioneers Initiative (DEPI)** — Data Science Track *(Oct 2024 – May 2025)*
+`Python` `SQL` `Data Analysis` `Machine Learning` `MLOps` · 120+ hrs technical + 48+ hrs professional skills
 
-## 📂 Projects
-
-### 🌱 Crop Recommendation System | Agritech (EDA + ML)
-- Conducted comprehensive **Exploratory Data Analysis** to understand soil, climate, and crop relationships.
-- Applied **feature engineering and scaling techniques** to prepare agricultural data.
-- Built and evaluated **machine learning classification models** to recommend optimal crops.
-- Delivered data-driven insights to support **smart farming decisions**.
+**📘 Samsung Innovation Campus (SIC)** — AI Track *(Aug 2025 – Dec 2026)*
+`Deep Learning` `Computer Vision` `NLP` `LLMs` `MLflow` `Agentic AI` `Prompt Engineering` · Multiple applied AI projects
 
 ---
 
+## 📊 GitHub Stats
 
-### 🔍 Clustering Analysis – K-Means
-- Performed **unsupervised learning** using K-Means clustering.
-- Applied **Elbow Method and Silhouette Analysis** for optimal cluster selection.
-- Analyzed cluster characteristics to extract **meaningful insights and patterns**.
-- Visualized clustering results for interpretability.
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Haneenmohammed1311&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haneenmohammed1311&layout=compact&theme=tokyonight&hide_border=true" />
 
-### 👁️ Plant Leaf Disease Detection | Deep Learning & Computer Vision
-- Architected **CNN models from scratch** and leveraged **pre-trained networks**.
-- Achieved high-accuracy plant disease classification.
-- Deployed the system as a **full-stack web application** using Flask.
-- Integrated **Hugging Face API** with a **Telegram chatbot** for real-time disease prediction.
-- Focused on automation, scalability, and user accessibility.
+</div>
 
----
+<div align="center">
 
-### ♿ AL Ru’ya – Assistive System for the Visually Impaired | Computer Vision
-🏆 **3rd Place – AL Ru’ya Hackathon**
+[![GitHub Streak](https://streak-stats.demolab.com?user=Haneenmohammed1311&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-- Engineered a **real-time accessibility solution** using **YOLOv8** and computer vision.
-- Detected environmental hazards such as **stairs, obstacles, and currency**.
-- Implemented **Arabic OCR** and **Text-to-Speech** pipelines.
-- Built an **Egyptian banknote recognition system** to enhance independence.
-- Optimized deep learning models for **mobile deployment and fast inference**.
+</div>
 
 ---
 
-### 📈 HR Attrition Prediction | Predictive Analytics
-- Built machine learning models to **predict employee attrition**.
-- Addressed extreme class imbalance using **SMOTEENN**.
-- Conducted deep **EDA** to identify key attrition drivers.
-- Delivered insights via **Power BI dashboards and Streamlit apps**.
-- Translated analytics into **actionable business strategies**.
+## 🤝 Let's Connect
+
+I'm **actively looking** for internships and junior opportunities in Data Science, Machine Learning, or AI Engineering. If you have an exciting project or role, I'd love to hear from you!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haneen-mohammed13)
+[![Email](https://img.shields.io/badge/Send%20me%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haneeenmohammid@gmail.com)
+[![Kaggle](https://img.shields.io/badge/See%20my%20notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/haneenmohammed13)
+
+</div>
 
 ---
 
-### 🛒 Online Sales Analysis | Business Intelligence
-- Designed **interactive Power BI dashboards** for sales performance analysis.
-- Identified revenue drivers and high-value product categories.
-- Focused on **data storytelling** and decision-oriented visualization.
-
----
-
-## 🏫 Training & Professional Programs
-
-🎓 **Digital Egypt Pioneers Initiative (DEPI) – Data Science Track Oct 2024- May 2025**  
-- 120+ hours: Python, SQL, Data Analysis, Data Visualization, Machine Learning, MLOps  
-- 48+ hours: Time Management, Personal Branding, Communication, Freelancing  
-
-🎓 **Samsung Innovation Campus (SIC) – AI Track Aug 2025- Dec2026**  
-- Data Analysis & Visualization  
-- Machine Learning & Deep Learning  
-- Computer Vision, NLP, LLMs  
-- MLOps, MLflow, Web Deployment  
-- Prompt Engineering, Agentic AI & Automation  
-- Multiple applied AI projects
-
----
-### 🏆 Hackathons & Competitions
-
-**AL Ru’ya Hackathon – Assistive AI for the Visually Impaired**  
-*3rd Place Winner*
-
-- Developed a real-time assistive system using **Computer Vision (YOLOv8)** to detect obstacles, stairs, and currency for visually impaired users.
-- Implemented **Arabic OCR** and **Text-to-Speech** pipelines to improve accessibility and user independence.
-- Built an **Egyptian banknote recognition system**, addressing a real local market need.
-- Contributed to the **business and product perspective** by:
-  - Identifying the **target users** and core pain points.
-  - Defining the **value proposition** and social impact of the solution.
-  - Participating in **business model canvas discussions**, focusing on sustainability and scalability.
-  - Supporting the **pitching process**, aligning technical capabilities with real-world use cases.
-- Focused on **social impact, performance optimization, and real-world deployment feasibility**.
-
----
-## 🤝 Soft Skills
-- Self-learner & fast adapter  
-- Team collaboration  
-- Clear technical communication  
-  Time management
----
-
-## 📫 Contact
-- **LinkedIn:** https://www.linkedin.com/in/haneen-mohammed13  
-- **Email:** haneeenmohammid@gmail.com  
-- **Kaggle:** https://www.kaggle.com/haneenmohammed13
+<div align="center">
+  <i>⭐ If you find any of my projects useful, a star means a lot! ⭐</i>
+</div>
