@@ -1,14 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=700&lines=Haneen+Mohammed+Mousa;Data+Science+%26+AI+Practitioner;Computer+Vision+%7C+Deep+Learning+%7C+MLOps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Haneen+Mohammed+Mousa+👋;Data+Science+%26+AI+Practitioner;Computer+Vision+%7C+Deep+Learning+%7C+MLOps;Building+Real-World+AI+Solutions" alt="Typing SVG" />
+
+<br/>
 
 **B.Sc. Statistics & Computer Science · Mansoura University · 2026**
 
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haneen-mohammed13)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/haneenmohammed13)
-[![Email](https://img.shields.io/badge/Email-haneeenmohammid%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:haneeenmohammid@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work%20💼-2ea44f?style=flat-square)](https://www.linkedin.com/in/haneen-mohammed13)
-
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:haneeenmohammid@gmail.com)
+[![Open to Work](https://img.shields.io/badge/💼-Open%20to%20Work-2ea44f?style=flat-square)](https://www.linkedin.com/in/haneen-mohammed13)
+[![Profile Views](https://komarev.com/ghpvc/?username=Haneenmohammed1311&style=flat-square&color=6C63FF)](https://github.com/Haneenmohammed1311)
 
 </div>
 
@@ -16,7 +20,9 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate Data Science & AI practitioner with hands-on experience across the full ML lifecycle — from exploratory analysis and model building to deployment and automation. My work is grounded in a strong academic foundation in Statistics and Computer Science, enriched by intensive training programs and real-world projects in **Computer Vision**, **Deep Learning**, and **Predictive Analytics**. I believe in building AI solutions that are not just accurate, but practical, scalable, and impactful.
+I'm a passionate **Data Science & AI practitioner** from Mansoura, Egypt 🇪🇬, with hands-on experience across the full ML lifecycle — from data exploration and model building to real-world deployment and automation. My foundation in **Statistics and Computer Science** drives me to build solutions that are not just technically strong, but practically impactful.
+
+I've built systems across **Computer Vision**, **Deep Learning**, **Predictive Analytics**, and **Business Intelligence** — including an assistive AI app for the visually impaired that won **3rd place** at a national hackathon.
 
 > 🏆 **3rd Place — AL Ru'ya Hackathon** &nbsp;·&nbsp; 💼 **Actively seeking internships & junior AI/DS roles**
 
@@ -62,61 +68,17 @@ I'm a passionate Data Science & AI practitioner with hands-on experience across 
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### ♿ AL Ru'ya — Assistive Vision System for the Visually Impaired &nbsp; 🏆 *3rd Place*
-`YOLOv8` `Computer Vision` `Arabic OCR` `Text-to-Speech` `Mobile Deployment`
-&nbsp; [![Repo]([https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/AL-Ruya-Assistive-System](https://github.com/Haneenmohammed1311/Assistant-Visually-Impaired))
-
-Real-time assistive AI system that detects environmental hazards (stairs, obstacles), recognizes Egyptian banknotes, and reads text aloud in Arabic — empowering visually impaired users with independent navigation. Optimized for mobile deployment with fast inference. Also contributed to the product pitch, value proposition, and business model canvas during the hackathon.
-
----
-
-### 🤖 Smart Attendance System — Face Recognition
-`Face Recognition` `OpenCV` `Deep Learning` `Flask` `SQLite` `Python`
-&nbsp; [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/Smart-Attendance-System)
-
-Contactless automated attendance system that detects and recognizes faces in real time, handles varying lighting and angles, and logs attendance with timestamps into a database. Includes a Flask admin dashboard to view, filter, and export records — replacing manual roll-calls entirely.
-
----
-
-### 🌿 Plant Leaf Disease Detection — Deep Learning & Computer Vision
-`CNN` `Transfer Learning` `Flask` `Hugging Face API` `Telegram Bot` `Docker`
-&nbsp; [![Repo]([https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/Plant-Disease-Detection](https://github.com/Haneenmohammed1311/-Plant-Leaf-Disease-Detection-using-Deep-Learning))
-
-End-to-end plant disease diagnosis system using CNNs (scratch + transfer learning). Deployed as a Flask web app and a Telegram chatbot powered by the Hugging Face API for real-time predictions. Automated alert and reporting pipelines via Make.com. Fully containerized with Docker.
-
----
-
-### 🌱 Crop Recommendation System — Agritech ML
-`Machine Learning` `EDA` `Feature Engineering` `Scikit-learn` `Streamlit`
-&nbsp; [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/Crop-Recommendation-System)
-
-ML classification system that recommends optimal crops based on soil (N, P, K, pH) and climate data. Benchmarked multiple models (Random Forest, SVM, KNN, Naive Bayes) with cross-validation and visualized feature importances for interpretable, smart-farming insights.
-
----
-
-### 📈 HR Attrition Prediction — Predictive Analytics
-`Machine Learning` `SMOTEENN` `EDA` `Power BI` `Streamlit`
-&nbsp; [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/HR-Attrition-Prediction)
-
-Predictive pipeline that identifies employees at risk of attrition. Addressed severe class imbalance with SMOTEENN. Surfaced key drivers (overtime, satisfaction, tenure) through deep EDA. Delivered an interactive Power BI dashboard and a Streamlit app for HR teams to get instant predictions.
-
----
-
-### 🛒 Online Sales Analysis — Business Intelligence
-`Power BI` `Data Storytelling` `Business Analytics`
-&nbsp; [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/Online-Sales-Analysis)
-
-Multi-page interactive Power BI dashboard covering sales KPIs, regional breakdowns, product performance, and seasonal trends — translating complex sales data into clear, decision-ready insights for business stakeholders.
-
----
-
-### 🔍 Customer Segmentation — Unsupervised Learning
-`K-Means` `PCA` `Elbow Method` `Silhouette Analysis`
-&nbsp; [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/Clustering-Analysis)
-
-Customer segmentation pipeline using K-Means with optimal cluster selection via the Elbow Method and Silhouette Analysis. Applied PCA for 2D/3D visualization and extracted actionable behavioral personas per cluster.
+| # | Project | Domain | Key Tech | Links |
+|---|---|---|---|---|
+| 🥉 | **AL Ru'ya — Assistive AI System** | Computer Vision · Social AI | YOLOv8, Google ML Kit, Android | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/Assistant-Visually-Impaired) |
+| 🎓 | **Smart Attendance System** | Face Recognition · CV | YOLOv8-Face, ArcFace, OpenCV | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/Smart-Attendance-System) |
+| 🌿 | **Plant Leaf Disease Detection** | Deep Learning · Agritech | CNN, ResNet, Flask, Telegram Bot | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/-Plant-Leaf-Disease-Detection-using-Deep-Learning) [![Demo](https://img.shields.io/badge/Demo-Live-green?style=flat-square)](https://huggingface.co/spaces/Lourina2/plant-disease-detection) |
+| 🌱 | **Crop Recommendation System** | ML · Agritech | Scikit-learn, EDA, Streamlit | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/Crop-Recommendation-System) |
+| 📈 | **HR Attrition Prediction** | Predictive Analytics | SMOTEENN, Power BI, Streamlit | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/HR-Attrition-Prediction) |
+| 🛒 | **Online Sales Analysis** | Business Intelligence | Power BI, Data Storytelling | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/Online-Sales-Analysis) |
+| 🔍 | **Customer Segmentation** | Unsupervised ML | K-Means, PCA, Silhouette | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/Clustering-Analysis) |
 
 ---
 
@@ -126,8 +88,9 @@ Customer segmentation pipeline using K-Means with optimal cluster selection via 
 
 ---
 
-**📘 Samsung Innovation Campus (SIC) — AI Track** &nbsp;|&nbsp; *Aug 2025 – Dec 2026* &nbsp; ✅ *Completed*
-Deep Learning · Computer Vision · NLP · LLMs · MLOps · MLflow · Web Deployment · Prompt Engineering · Agentic AI & Automation · Multiple applied AI projects
+**📘 Samsung Innovation Campus (SIC) — AI Track** &nbsp;|&nbsp; *Aug – Dec 2025* &nbsp; ✅ *Completed*
+
+Deep Learning · Computer Vision · NLP · LLMs · MLOps · MLflow · Web Deployment · Prompt Engineering · Agentic AI & Automation
 
 ---
 
@@ -141,15 +104,24 @@ Python · SQL · Data Analysis · EDA · Machine Learning · MLOps · Data Visua
 
 **🔷 IEEE Mansoura University Student Branch — Advanced Level Supervisor**
 
-Supervised students in advanced AI and data science tracks, contributed to curriculum design for advanced-level programs, and organized workshops and knowledge-sharing sessions within the IEEE student community at Mansoura University.
+Supervised students in advanced AI and data science tracks · Contributed to advanced curriculum design · Organized workshops and technical knowledge-sharing sessions
 
 ---
 
 ## 🏆 Achievements
 
-🥉 **3rd Place — AL Ru'ya Hackathon** &nbsp;·&nbsp; Assistive AI for the visually impaired using YOLOv8, Arabic OCR, TTS & Egyptian banknote recognition
+🥉 **3rd Place — AL Ru'ya Hackathon** &nbsp;·&nbsp; Assistive AI for the visually impaired — YOLOv8, Arabic OCR, TTS & Egyptian banknote recognition
 
+---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Haneenmohammed1311&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haneenmohammed1311&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Haneenmohammed1311&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
@@ -158,11 +130,15 @@ Supervised students in advanced AI and data science tracks, contributed to curri
 ---
 
 <div align="center">
-<b>💼 Open to internships & junior roles in Data Science, ML & AI Engineering</b><br/><br/>
+
+**💼 Open to internships & junior roles in Data Science, ML & AI Engineering**
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haneen-mohammed13)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haneeenmohammid@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle%20Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/haneenmohammed13)
+[![Kaggle](https://img.shields.io/badge/View%20Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/haneenmohammed13)
 
 <sub>⭐ If any of my projects helped you, a star is always appreciated!</sub>
+
 </div>
