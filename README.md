@@ -94,20 +94,6 @@ I've built systems across **Computer Vision**, **Deep Learning**, **Predictive A
 * Supervised students in advanced AI/DS tracks.
 * Contributed to curriculum design and technical workshops.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Haneenmohammed1311&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haneenmohammed1311&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Haneenmohammed1311&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
