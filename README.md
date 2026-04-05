@@ -68,11 +68,10 @@ I've built systems across **Computer Vision**, **Deep Learning**, **Predictive A
 |---|---|---|---|---|
 | 🥉 | **AL Ru'ya — Assistive AI System** | CV · Social AI | YOLOv8, ML Kit | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/Assistant-Visually-Impaired) |
 | 🎓 | **Smart Attendance System** | Face Rec · CV | YOLOv8-Face, ArcFace | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/Smart-Attendance-System) |
-| 🌿 | **Plant Leaf Disease Detection** | DL · Agritech | CNN, ResNet, Flask | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/-Plant-Leaf-Disease-Detection-using-Deep-Learning) [![Demo](https://img.shields.io/badge/Demo-Live-green?style=flat-square)](https://huggingface.co/spaces/Lourina2/plant-disease-detection) |
+| 🌿 | **Plant Leaf Disease Detection** | DL · Agritech | CNN, ResNet, Flask,Make.com,TelegramBot | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/-Plant-Leaf-Disease-Detection-using-Deep-Learning) [![Demo](https://img.shields.io/badge/Demo-Live-green?style=flat-square)](https://huggingface.co/spaces/Lourina2/plant-disease-detection) |
 | 🌱 | **Crop Recommendation System** | ML · Agritech | Scikit-learn, EDA | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/Crop-Recommendation-System) |
 | 📈 | **HR Attrition Prediction** | Predictive | SMOTEENN, Power BI | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/HR-Attrition-Prediction) |
 | 🛒 | **Online Sales Analysis** | BI | Power BI, Storytelling | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/Online-Sales-Analysis) |
-| 🔍 | **Customer Segmentation** | Unsupervised | K-Means, PCA | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/Clustering-Analysis) |
 
 ---
 
