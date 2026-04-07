@@ -85,6 +85,9 @@ I've built systems across **Computer Vision**, **Deep Learning**, **Predictive A
 **📘 Digital Egypt Pioneers Initiative (DEPI) — Data Science Track** | *Oct 2024 – May 2025*
 > Python · SQL · EDA · Machine Learning · MLOps · 120+ Technical Hrs
 
+**📘 Orange Digital center — Computer Vision** | *Jan 2026 – Feb 2026*
+> Image Processing . CNN . Object Detection .Image Segmentation · 26 Technical Hrs
+
 ---
 
 ## 🌐 Community & Leadership
