@@ -11,7 +11,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/haneenmohammed13)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:haneeenmohammid@gmail.com)
 [![Open to Work](https://img.shields.io/badge/💼-Open%20to%20Work-2ea44f?style=flat-square)](https://www.linkedin.com/in/haneen-mohammed13)
-[![Certificates](https://img.shields.io/badge/Certificates-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/haneen-mohammed13/details/certifications/](https://drive.google.com/drive/folders/10z-TCQOiaimiJ46GCHE2YOytSO0FdMCv?usp=sharing))
+[![Certificates](https://img.shields.io/badge/Certificates-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://drive.google.com/drive/folders/10z-TCQOiaimiJ46GCHE2YOytSO0FdMCv?usp=sharing)
 </div>
 
 ---
