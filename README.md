@@ -11,18 +11,18 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/haneenmohammed13)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:haneeenmohammid@gmail.com)
 [![Open to Work](https://img.shields.io/badge/💼-Open%20to%20Work-2ea44f?style=flat-square)](https://www.linkedin.com/in/haneen-mohammed13)
-
+[![Certificates](https://img.shields.io/badge/Certificates-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/haneen-mohammed13/details/certifications/](https://drive.google.com/drive/folders/10z-TCQOiaimiJ46GCHE2YOytSO0FdMCv?usp=sharing))
 </div>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a passionate **Data Science & AI practitioner** from Mansoura, Egypt 🇪🇬, with hands-on experience across the full ML lifecycle — from data exploration and model building to real-world deployment and automation. My foundation in **Statistics and Computer Science** drives me to build solutions that are not just technically strong, but practically impactful.
+I'm a passionate **Data Science & AI practitioner** from Mansoura, Egypt 🇪🇬, with hands-on experience across the full ML lifecycle from data exploration and model building to real-world deployment and automation. My foundation in **Statistics and Computer Science** drives me to build solutions that are not just technically strong, but practically impactful.
 
 I've built systems across **Computer Vision**, **Deep Learning**, **Predictive Analytics**, and **Business Intelligence** — including an assistive AI app for the visually impaired that won **3rd place** at a national hackathon.
 
-> 🏆 **3rd Place — AL Ru'ya Hackathon** &nbsp;·&nbsp; 💼 **Actively seeking internships & junior AI/DS roles**
+> 🏆 **3rd Place AL Ru'ya Hackathon** &nbsp;·&nbsp; 💼 **Actively seeking internships & junior AI/DS roles**
 
 ---
 
