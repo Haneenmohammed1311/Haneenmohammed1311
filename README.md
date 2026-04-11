@@ -18,7 +18,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate **Data Science & AI practitioner** from Mansoura, Egypt 🇪🇬, with hands-on experience across the full ML lifecycle from data exploration and model building to real-world deployment and automation. My foundation in **Statistics and Computer Science** drives me to build solutions that are not just technically strong, but practically impactful.
+I'm a passionate **Data Science & AI practitioner** , with hands-on experience across the full ML lifecycle from data exploration and model building to real-world deployment and automation. My foundation in **Statistics and Computer Science** drives me to build solutions that are not just technically strong, but practically impactful.
 
 I've built systems across **Computer Vision**, **Deep Learning**, **Predictive Analytics**, and **Business Intelligence** — including an assistive AI app for the visually impaired that won **3rd place** at a national hackathon.
 
