@@ -1,9 +1,9 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Haneen+Mohammed+%F0%9F%91%8B;Data+Science+%26+AI+Practitioner;Machine+Learning+%7C+Computer+Vision+%7C+Agentic+AI;Building+Real-World+AI+Solutions" alt="Typing SVG" />
-
+  
 <br/>
 
-**B.Sc. Statistics & Computer Science · Mansoura University · 2026**
+**B.Sc.  Computer Science & Statistics · Mansoura University · 2026**
 
 <br/>
 
@@ -25,7 +25,22 @@ I've built and shipped systems across **Computer Vision**, **Deep Learning**, **
 I work well in teams and independently, take documentation seriously, and I'm always a step ahead in learning. 
 
 > 🏆 **3rd Place AL Ru'ya Hackathon** &nbsp;·&nbsp; 💼 **Actively seeking junior AI/DS roles**
-
+---
+ 
+## 📚 Currently Learning
+ 
+**LangChain and LangGraph, Agentic AI Engineering** · [Udemy course by Eden Marco](https://www.udemy.com/course/langchain/?couponCode=MT261019G3) · *In progress, certificate pending*
+ 
+I rebuild every lesson from scratch on a free local stack (Gemini, Ollama, Chroma, HuggingFace embeddings) and document each one.
+ 
+| What I've built so far | Repository |
+|---|---|
+| Agentic RAG: naive, corrective, and adaptive RAG as a LangGraph state machine | [agentic-rag-langgraph](https://github.com/Haneenmohammed1311/LangGrapgh-Course/tree/project/agentic-rag) |
+| LangGraph lessons: ReAct, reflection, and reflexion agents | [LangGrapgh-Course](https://github.com/Haneenmohammed1311/LangGrapgh-Course) |
+| Documentation Helper: a Streamlit RAG chat app with cited sources | [Documentation-Helper](https://github.com/Haneenmohammed1311/Documentation-Helper) |
+| Course journal: one branch per lesson, plus theory notes | [Agentic-AI](https://github.com/Haneenmohammed1311/Agentic-AI) |
+ 
+---
 ---
 
 ## 🛠️ Technical Skills
@@ -56,8 +71,15 @@ I work well in teams and independently, take documentation seriously, and I'm al
 ### **Agentic AI & LLMs**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Tavily](https://img.shields.io/badge/Tavily-5B5BD6?style=flat-square&logoColor=white)
+ 
 
 ### **Deployment & MLOps**
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -72,6 +94,7 @@ I work well in teams and independently, take documentation seriously, and I'm al
 | # | Project | Domain | Key Tech | Links |
 |---|---|---|---|---|
 | 🤖 | **CodeRefine Judging Assistant** | Agentic AI · LLMs | LangGraph, LangChain, RAG, FastAPI, SQLite | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/CodeRefine-Judging-Assistant) |
+| 🧠 | **Agentic RAG with LangGraph** | Agentic AI · RAG | LangGraph, LangChain, Gemini, Chroma, Tavily, Pydantic | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/LangGrapgh-Course/tree/project/agentic-rag) |
 | 🎓 | **Smart Attendance System** | Face Recognition · CV | YOLOv8-Face, ArcFace, Flask, Docker | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/Smart-Attendance-System) [![Demo](https://img.shields.io/badge/Demo-Live-green?style=flat-square)](https://huggingface.co/spaces/Haneen13/smart-attendance-system) |
 | 🥉 | **AL Ru'ya, Assistant-Visually-Impaired** | Computer Vision · Social AI | YOLOv8, ML Kit, Android, OCR, TTS | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/Assistant-Visually-Impaired) |
 | 🌿 | **Plant Leaf Disease Detection** | Deep Learning · Agritech | CNN, ResNet, EfficientNet, Flask, Telegram Bot | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/-Plant-Leaf-Disease-Detection-using-Deep-Learning) [![Demo](https://img.shields.io/badge/Demo-Live-green?style=flat-square)](https://huggingface.co/spaces/Lourina2/plant-disease-detection) |
@@ -81,57 +104,64 @@ I work well in teams and independently, take documentation seriously, and I'm al
 ---
 
 ## 📂 Project Descriptions
-
+ 
 ### 🤖 CodeRefine Judging Assistant
 A production-grade multi-agent AI system built for the CodeRefine competition. Automates the grading of system design submissions using a 3-node LangGraph pipeline (gather evidence → score against rubric → verify citations), a RAG-powered chatbot that answers competitor questions from the official rules document, and a full judge review workflow where scores are only released after human approval. Built with FastAPI, SQLite, Docker, Groq LLMs, BGE-M3 embeddings, and ChromaDB. Includes prompt injection defense, relevance grading, session auth, rate limiting, and a complete competition website. Deployed on a live server.
-
+ 
 ---
-
+ 
+### 🧠 Agentic RAG with LangGraph
+A RAG system modeled as a LangGraph state machine and built in three stages: naive RAG, corrective RAG, and adaptive (agentic) RAG. A router sends each question either to a local Chroma vector store or to Tavily web search. An LLM grader filters the retrieved chunks and triggers a web search fallback when they are not relevant. Two more checks decide whether the answer is returned, regenerated, or sent back to search: one for hallucination (is it grounded in the documents) and one for relevance (does it answer the question). Uses Gemini with structured Pydantic output, local HuggingFace embeddings, and pytest tests for the chains. Built from scratch while following a Udemy course, on a free local stack instead of OpenAI and Pinecone, with a README that documents each stage, the graph, and the bugs found along the way.
+ 
+---
+ 
 ### 🎓 Smart Attendance System
 A two-phase face recognition system that automates classroom attendance without any manual roll call. Phase 1 runs offline on Google Colab: raw photos are cleaned, aligned with InsightFace, augmented, and embedded with ArcFace into a database. Phase 2 runs in real time: YOLOv8s-Face detects all faces in a classroom frame simultaneously, extracts embeddings via ArcFace, and matches against the database using cosine similarity. Includes a Flask web app with a REST API and enrollment interface, fully containerized with Docker and deployed on Hugging Face Spaces.
-
+ 
 ---
-
+ 
 ### 🥉 AL Ru'ya, Assistive AI App *(3rd Place, SIC National Hackathon)*
 A real-time Android accessibility app designed to help visually impaired users navigate daily life independently. Detects environmental obstacles using YOLOv8, reads Arabic text aloud via a localized OCR and Text-to-Speech pipeline, and identifies Egyptian banknotes through a dedicated recognition module. Deep learning models were optimized for mobile deployment to achieve low-latency inference suitable for real-time safety alerts.
-
+ 
 ---
-
+ 
 ### 🌿 Plant Leaf Disease Detection
 An end-to-end agricultural AI system that helps farmers detect crop diseases at scale. Processed a 10GB multi-class plant image dataset, built a custom CNN from scratch, and benchmarked pretrained architectures (ResNet50, EfficientNetB0/B6, DenseNet121) to select the best-performing model. Deployed as a Flask web app and integrated with Hugging Face API and a Telegram chatbot powered by Make.com for real-time remote diagnosis.
-
+ 
 ---
-
+ 
 ### 📈 HR Attrition Prediction
 A full ML pipeline predicting employee turnover for HR decision support. Applied SMOTEENN to resolve severe class imbalance, compared Logistic Regression, SVM, and Random Forest, with Random Forest achieving best performance, improving attrition recall from 0.09 to 0.89. Delivered results as interactive Power BI and Streamlit dashboards designed for non-technical executive stakeholders.
-
+ 
 ---
 
 
 ---
 
 ## 🎓 Education & Training
-
+ 
 **🎓 B.Sc. Statistics & Computer Science** - Mansoura University | *2022 – 2026* | GPA: Very Good
-
+ 
+**📘 Udemy: LangChain and LangGraph, Agentic AI Engineering** | *In progress*
+> Agents · Tool Calling · RAG · LangGraph State Graphs · Reflection and Reflexion · Agentic RAG · Prompt and Context Engineering
+ 
 **📘 Samsung Innovation Campus (SIC) - AI Track** | *Aug – Dec 2025*
 > Machine Learning · Deep Learning · Computer Vision · NLP · LLMs · Agentic AI · MLOps · Web Deployment · Automation
-
+ 
 **📘 Digital Egypt Pioneers Initiative (DEPI) - Data Science Track** | *Oct 2024 – May 2025*
 > Python · SQL · EDA · Machine Learning · MLOps · MLflow · Hugging Face · 120+ Technical Hours
-
+ 
 **📘 Orange Digital Center - Computer Vision** | *Jan – Feb 2026*
 > Image Processing · CNNs · Object Detection · Image Segmentation · 26 Technical Hours
 
 ---
 
-## 🌐 Community & Leadership
 
-**🔷 IEEE Mansoura University Student Branch — Advanced & Intermediate Level Supervisor** *(Jan 2026 – Present)*
+**🔷 IEEE Mansoura University Student Branch | Advanced & Intermediate Level Supervisor** *(Jan 2026 – Aug 2026)*
 - Supervise students in advanced AI and Data Science tracks.
 - Design curriculum content and run technical workshops.
 - Represent the branch at technical events and competitions.
-
+- **CodeRefine Judging Assistant**, 𝐈𝐄𝐄𝐄 𝐕𝐈𝐂𝐓𝐎𝐑𝐈𝐒 𝟒.𝟎 **IEEE Mansoura Student Branch**
 ---
 
 <div align="center">
