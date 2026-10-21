@@ -35,7 +35,7 @@ I rebuild every lesson from scratch on a free local stack (Gemini, Ollama, Chrom
  
 | What I've built so far | Repository |
 |---|---|
-| Agentic RAG: naive, corrective, and adaptive RAG as a LangGraph state machine | [agentic-rag-langgraph](https://github.com/Haneenmohammed1311/LangGrapgh-Course/tree/project/agentic-rag) |
+| Agentic RAG: naive, corrective, and adaptive RAG as a LangGraph state machine | [agentic-rag-langgraph](https://github.com/Haneenmohammed1311/Agentic-RAG-LangGraph) |
 | LangGraph lessons: ReAct, reflection, and reflexion agents | [LangGrapgh-Course](https://github.com/Haneenmohammed1311/LangGrapgh-Course) |
 | Documentation Helper: a Streamlit RAG chat app with cited sources | [Documentation-Helper](https://github.com/Haneenmohammed1311/Documentation-Helper) |
 | Course journal: one branch per lesson, plus theory notes | [Agentic-AI](https://github.com/Haneenmohammed1311/Agentic-AI) |
@@ -94,7 +94,7 @@ I rebuild every lesson from scratch on a free local stack (Gemini, Ollama, Chrom
 | # | Project | Domain | Key Tech | Links |
 |---|---|---|---|---|
 | 🤖 | **CodeRefine Judging Assistant** | Agentic AI · LLMs | LangGraph, LangChain, RAG, FastAPI, SQLite | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/CodeRefine-Judging-Assistant)[![Demo](https://img.shields.io/badge/Demo-Live-green?style=flat-square)](https://coderefine.ieeemansb.org/)  |
-| 🧠 | **Agentic RAG with LangGraph** | Agentic AI · RAG | LangGraph, LangChain, Gemini, Chroma, Tavily, Pydantic | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/LangGrapgh-Course/tree/project/agentic-rag) |
+| 🧠 | **Agentic RAG with LangGraph** | Agentic AI · RAG | LangGraph, LangChain, Gemini, Chroma, Tavily, Pydantic | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/Agentic-RAG-LangGraph) |
 | 🎓 | **Smart Attendance System** | Face Recognition · CV | YOLOv8-Face, ArcFace, Flask, Docker | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/Smart-Attendance-System) [![Demo](https://img.shields.io/badge/Demo-Live-green?style=flat-square)](https://huggingface.co/spaces/Haneen13/smart-attendance-system) |
 | 🥉 | **AL Ru'ya, Assistant-Visually-Impaired** | Computer Vision · Social AI | YOLOv8, ML Kit, Android, OCR, TTS | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/Assistant-Visually-Impaired) |
 | 🌿 | **Plant Leaf Disease Detection** | Deep Learning · Agritech | CNN, ResNet, EfficientNet, Flask, Telegram Bot | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Haneenmohammed1311/-Plant-Leaf-Disease-Detection-using-Deep-Learning) [![Demo](https://img.shields.io/badge/Demo-Live-green?style=flat-square)](https://huggingface.co/spaces/Lourina2/plant-disease-detection) |
